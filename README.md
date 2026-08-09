@@ -14,7 +14,7 @@
 <h5 align="center">TEKKEN 8 Online Stats & Lounge Streaming</h5>
 <div align="center">
   <a href="https://tlounge.live">
-    <img src="https://tlounge.live/TLL_logo.png" />&nbsp
+    <img src="https://tlounge.live/TLL_logo.png" height="100" width="100" />&nbsp
   </a>
 </div>
 
