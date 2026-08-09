@@ -8,8 +8,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=PMRAZOR&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="405" alt="PM.RAZOR's GitHub stats" />
 </div> -->
-
-<br><br>
 <h3 align="center">Services</h3>
 <h5 align="center">TEKKEN 8 Online Stats & Lounge Streaming</h5>
 <div align="center">
